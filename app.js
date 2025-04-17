@@ -5,7 +5,8 @@
 // paragrafo.innerHTML = 'Escolha um número entre 1 e 10';
 
 let listaDeNumerosSorteados = [];
-let numeroLimite = 30;
+
+let numeroLimite = 100;
 exibirMensagemInicial();
 
 let numeroSecreto = gerarNumeroAleatorio();
