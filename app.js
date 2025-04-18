@@ -6,7 +6,7 @@
 
 let listaDeNumerosSorteados = [];
 
-let numeroLimite = 77;
+let numeroLimite = 777;
 exibirMensagemInicial();
 
 let numeroSecreto = gerarNumeroAleatorio();
