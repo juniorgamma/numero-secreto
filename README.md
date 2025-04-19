@@ -1,4 +1,4 @@
-<h1>Jogo do número secreto</h1>h1
+<h1>Jogo do número secreto</h1>
 
 <h2>Sobre</h2>
 <p>Jogo que solicita ao usuário que forneça um número, na tentativa de adivinhar um número escolhido aleatoriamente pelo jogo. Caso erre, o jogo fornece uma dica, indicando se o número secreto é maior ou menor.</p>
